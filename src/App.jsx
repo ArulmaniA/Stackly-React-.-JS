@@ -1,7 +1,8 @@
 import  'react'
+import UseState from './task04/UseState'
 // import SelfIntro from './components/SelfIntro'
 // import ParentCard from './components/ParentCard'
-import Task3 from './task03/Task3'
+// import Task3 from './task03/Task3'
 
 export default function App() {
   return (
@@ -10,7 +11,13 @@ export default function App() {
 
       {/* <ParentCard/> */}
 
-      <Task3/>
+      {/* <Task3/> */}
+
+      <UseState/>
+
+
+
+
     </div>
   )
 }
