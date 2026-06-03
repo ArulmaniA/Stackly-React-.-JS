@@ -1,5 +1,6 @@
 import  'react'
-import Task5 from './task05/Task5'
+import UserTable from './task06/UserTable'
+// import Task5 from './task05/Task5'
 // import UseState from './task04/UseState'
 // import SelfIntro from './components/SelfIntro'
 // import ParentCard from './components/ParentCard'
@@ -16,7 +17,9 @@ export default function App() {
 
       {/* <UseState/> */}
 
-      <Task5/>
+      {/* <Task5/> */}
+
+      <UserTable/>
 
 
 
