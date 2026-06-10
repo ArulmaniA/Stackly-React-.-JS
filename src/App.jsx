@@ -1,5 +1,6 @@
 import  'react'
-import Task09 from './task09/Task09'
+import Task10 from './task10/Task10'
+// import Task09 from './task09/Task09'
 // import Task08 from './task08/Task08'
 // import Task07 from './task07/Task07'
 // import UserTable from './task06/UserTable'
@@ -28,7 +29,9 @@ export default function App() {
 
       {/* <Task08/> */}
 
-      <Task09/>
+      {/* <Task09/> */}
+
+      <Task10/>
 
     
 
