@@ -1,5 +1,6 @@
 import  'react'
-import Task10 from './task10/Task10'
+import MiniChatApplication from './task11/MiniChatApplication'
+// import Task10 from './task10/Task10'
 // import Task09 from './task09/Task09'
 // import Task08 from './task08/Task08'
 // import Task07 from './task07/Task07'
@@ -31,7 +32,9 @@ export default function App() {
 
       {/* <Task09/> */}
 
-      <Task10/>
+      {/* <Task10/> */}
+
+      <MiniChatApplication/>
 
     
 
